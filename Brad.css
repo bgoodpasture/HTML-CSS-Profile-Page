@@ -1,0 +1,46 @@
+body{
+
+}
+  h1{
+    text-align: center;
+    font-size: 100px;}
+
+p{font-size: 20px;
+}
+.banana{
+  width: 1200px;
+  text-align: ;
+}
+
+@media (min-width: 400px){
+    body{
+      background-color: blue;
+      color:red;
+    }
+}
+@media (min-width: 550px){
+    body{
+      background-color: green;
+      color:black;
+    }
+}
+@media (min-width: 750px){
+    body{
+      background-color: lightpink;
+      color:orange;
+    }
+}
+
+@media (min-width: 1000px){
+  body{
+    background-color: turquoise;
+    color: white;
+  }
+}
+
+@media (min-width:1200px){
+  body{
+    background-color: purple;
+    color: turquiose;
+  }
+}
